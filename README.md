@@ -25,6 +25,7 @@ pip install streamlit pandas plotly fpdf2 numpy
 
 ## Крок 2: Підготовка даних
 Помістіть у папку з кодом вихідний датасет. Файл має називатися строго U.S._Chronic_Disease_Indicators.csv.
+https://catalog.data.gov/dataset/u-s-chronic-disease-indicators - сайт з датасетом
 
 ## Крок 3: Запуск сервера
 Відкрийте термінал у папці з проектом та виконайте команду:
