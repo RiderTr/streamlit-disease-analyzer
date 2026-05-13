@@ -45,3 +45,13 @@ streamlit run app.py
 - Прогресія (Тренди) - лінійний графік зміни захворюваності по роках.
 - Вік та Стать - демографічний аналіз з використанням таблиць та кільцевих діаграм Plotly.
 - Порівняння трендів - виведення двох хвороб на один графік для порівняння їх динаміки.
+
+## Скріншоти сайту
+<img width="1920" height="942" alt="image" src="https://github.com/user-attachments/assets/9ab663cf-df6a-4352-8cab-41726cf041e2" />
+<img width="1917" height="939" alt="image" src="https://github.com/user-attachments/assets/2230ede1-c6a7-44db-93d6-856789dca13e" />
+<img width="1908" height="952" alt="image" src="https://github.com/user-attachments/assets/806532be-86d1-4374-b1a3-9eb774472240" />
+<img width="1920" height="960" alt="image" src="https://github.com/user-attachments/assets/58a334a5-cb6a-446b-8b74-f563d5ac94bb" />
+
+
+
+
