@@ -50,6 +50,11 @@ streamlit run app.py
 <img width="1920" height="942" alt="image" src="https://github.com/user-attachments/assets/9ab663cf-df6a-4352-8cab-41726cf041e2" />
 <img width="1908" height="952" alt="image" src="https://github.com/user-attachments/assets/806532be-86d1-4374-b1a3-9eb774472240" />
 <img width="1920" height="960" alt="image" src="https://github.com/user-attachments/assets/58a334a5-cb6a-446b-8b74-f563d5ac94bb" />
+<img width="1920" height="955" alt="image" src="https://github.com/user-attachments/assets/cdc0ba32-04a8-4ea1-9ce7-4abf25e47991" />
+<img width="1918" height="930" alt="image" src="https://github.com/user-attachments/assets/47d1970b-07d8-4c60-9a01-69e45af9cc12" />
+<img width="1920" height="959" alt="image" src="https://github.com/user-attachments/assets/4cbc947e-748d-4609-be93-e11bceae5d8f" />
+
+
 
 
 
